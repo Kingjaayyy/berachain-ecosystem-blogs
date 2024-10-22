@@ -5,7 +5,7 @@ export const siteConfig = {
   description: "A place for everything Berachain.",
   url: "https://berachain.com",
   links: {
-    twitter: "https://twitter.com/berachain",
+    twitter: "https://x.com/berachain",
     github: "https://github.com/berachain",
   },
 }
